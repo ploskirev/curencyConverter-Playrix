@@ -50,6 +50,7 @@ export default {
 <style lang="scss" scoped>
 .base-input {
   height: 60px;
+  min-width: 0;
   border: 3px solid #ddd;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;

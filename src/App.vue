@@ -417,7 +417,7 @@ input::-webkit-inner-spin-button {
 }
 
 .currency-input {
-  width: 200px;
+  flex-basis: 200px;
   flex-shrink: 1;
   flex-grow: 1;
 }
